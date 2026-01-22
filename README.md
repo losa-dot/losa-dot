@@ -10,5 +10,5 @@ My Favorite Fluorophore: NR12S
 
 Previous Coding Experience: Repeatedly Calling TI
 
-What I Hope to Get From This Course: Bring Flow Analysis to open source.
+What I Hope to Get From This Course: Convert Flow to easy&open.
 
